@@ -1,0 +1,220 @@
+{
+  "Ancient Potion": {
+    "NAME": "Prapocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yArtefakto."
+    ]
+  },
+  "AttackPotion": {
+    "NAME": "Atakpocio",
+    "DESCRIPTIONS": [
+      "Aldonu hazardan Atakokarton al via mano, kiu kostas #b0 cxi-vice."
+    ]
+  },
+  "Block Potion": {
+    "NAME": "Sxirmpocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #ySxirmo."
+    ]
+  },
+  "BloodPotion": {
+    "NAME": "Sangopocio",
+    "DESCRIPTIONS": [
+      "Resanigxu je #b",
+      "% de la maksimumo de viaj vivpoentoj."
+    ]
+  },
+  "Dexterity Potion": {
+    "NAME": "Lertecpocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yLerteco."
+    ]
+  },
+  "Elixir": {
+    "NAME": "Eliksiro",
+    "DESCRIPTIONS": [
+      "",
+      "",
+      "#yElcxerpu cxiun #yStatajn kaj #yMalbenajn kartojn el via mano.",
+      "",
+      "Estis neniu efiko..."
+    ]
+  },
+  "Energy Potion": {
+    "NAME": "Energipocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da Energio."
+    ]
+  },
+  "EntropicBrew": {
+    "NAME": "Entropia Miksajxo",
+    "DESCRIPTIONS": [
+      "Plenigu viajn malplenajn pociingojn per hazardaj pocioj."
+    ]
+  },
+  "EssenceOfSteel": {
+    "NAME": "Esenco de Sxtalo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yLada #yArmajxo."
+    ]
+  },
+  "Explosive Potion": {
+    "NAME": "Eksploda Pocio",
+    "DESCRIPTIONS": [
+      "Faru #b",
+      " da damagxo al CxIU malamiko."
+    ]
+  },
+  "FairyPotion": {
+    "NAME": "Feo en Botelo",
+    "DESCRIPTIONS": [
+      "Kiam vi mortus, anstatauxe resanigxu gxis #b10% da la maksimumo de viaj vivpoentoj kaj forigu cxi tiun pocion."
+    ]
+  },
+  "FearPotion": {
+    "NAME": "Pocio de Timo",
+    "DESCRIPTIONS": [
+      "Almetu #b",
+      " da #yVundebla."
+    ]
+  },
+  "Fire Potion": {
+    "NAME": "Fajra Pocio",
+    "DESCRIPTIONS": [
+      "Faru #b",
+      " da damagxo."
+    ]
+  },
+  "FocusPotion": {
+    "NAME": "Pocio de Atento",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yAtento."
+    ]
+  },
+  "Fruit Juice": {
+    "NAME": "Fruktosuko",
+    "DESCRIPTIONS": [
+      "Plialtigu la maksimumon de viaj vivpoentoj je #b",
+      "."
+    ]
+  },
+  "GamblersBrew": {
+    "NAME": "Miksajxo de Monludisto",
+    "DESCRIPTIONS": [
+      "Forigu ajnan kvanton da kartoj kaj poste prenu tiom."
+    ]
+  },
+  "GhostInAJar": {
+    "NAME": "Fantomo en Bokalo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yNepalpebla."
+    ]
+  },
+  "Health Potion": {
+    "NAME": "Vivpocio",
+    "DESCRIPTIONS": [
+      "Resanigxu je #b",
+      " da vivpoentoj."
+    ]
+  },
+  "LiquidBronze": {
+    "NAME": "Likva Bronzo",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yDornoj."
+    ]
+  },
+  "Poison Potion": {
+    "NAME": "Venena Pocio",
+    "DESCRIPTIONS": [
+      "Almetu #b",
+      " da #yVeneno."
+    ]
+  },
+  "Potion Slot": {
+    "NAME": "Pociingo",
+    "DESCRIPTIONS": [
+      "Uzu pociojn dum batalo por gajni #gbonusojn aux #rmalhelpi malamikojn.",
+      "Pociingo"
+    ]
+  },
+  "PowerPotion": {
+    "NAME": "Pocio de Potenco",
+    "DESCRIPTIONS": [
+      "Aldonu hazardan Potenckarton al via mano, kiu kostas #b0 cxi-vice."
+    ]
+  },
+  "Regen Potion": {
+    "NAME": "Regeneriga Pocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yRegenero.",
+      ""
+    ]
+  },
+  "SkillPotion": {
+    "NAME": "Pocio de Kapablo",
+    "DESCRIPTIONS": [
+      "Aldonu hazardan Kapablokarton al via mano, kiu kostas #b0 cxi-vice."
+    ]
+  },
+  "SmokeBomb": {
+    "NAME": "Fumobombo",
+    "DESCRIPTIONS": [
+      "Fugxu de batalo (ne kontraux estro). Gajnu nenion."
+    ]
+  },
+  "SneckoOil": {
+    "NAME": "Oleo de Serpeko",
+    "DESCRIPTIONS": [
+      " Farigxu #yKonfuzita. Prenu #b",
+      " da kartoj.",
+      "karton."
+    ]
+  },
+  "SpeedPotion": {
+    "NAME": "Pocio de Rapideco",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yLerteco. Je la fino de via vico, perdu #b",
+      " da #yLerteco."
+    ]
+  },
+  "SteroidPotion": {
+    "NAME": "Steroida Pocio",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yForto. Je la fino de via vico, perdu #b",
+      " da #yForto."
+    ]
+  },
+  "Strength Potion": {
+    "NAME": "Pocio de Forto",
+    "DESCRIPTIONS": [
+      "Gajnu #b",
+      " da #yForto."
+    ]
+  },
+  "Swift Potion": {
+    "NAME": "Prompta Pocio",
+    "DESCRIPTIONS": [
+      "",
+      "Prenu #b",
+      " kartojn."
+    ]
+  },
+  "Weak Potion": {
+    "NAME": "Pocio de Malforto",
+    "DESCRIPTIONS": [
+      "Almetu #b",
+      " da #yMalforta."
+    ]
+  }
+}

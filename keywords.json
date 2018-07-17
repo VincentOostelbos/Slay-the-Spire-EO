@@ -1,0 +1,250 @@
+{
+  "Game Dictionary": {
+    "ARTIFACT": {
+      "NAMES": [
+        "artefakto"
+      ],
+      "DESCRIPTION": "Nuligas la sekvontan malhelpon."
+    },
+    "BLOCK": {
+      "NAMES": [
+        "sxirmo",
+        "sxirmas"
+      ],
+      "DESCRIPTION": "Gxis la sekvonta vico, nuligas damagxon."
+    },
+    "BURN": {
+      "NAMES": [
+        "brulo",
+        "brulas"
+      ],
+      "DESCRIPTION": "Brulo estas neludebla statkarto, kiu damagxas vin."
+    },
+    "CHANNEL": {
+      "NAMES": [
+        "TODOchannel",
+        "TODOchanneled"
+      ],
+      "DESCRIPTION": "TODO Sferon metas gxin en vian unuan malplenan ingon. Se vi ne havas malplenajn ingojn, via unua Sfero auxtomate estas #yElvokita por fari spacon."
+    },
+    "CONFUSED": {
+      "NAMES": [
+        "konfuzita"
+      ],
+      "DESCRIPTION": "Kiam vi prenas karton, gxia kosto hazardigxas."
+    },
+    "CURSE": {
+      "NAMES": [
+        "malbeno"
+      ],
+      "DESCRIPTION": "Malbenaj kartoj estas negativaj kartoj, kiuj restas en via kartaro."
+    },
+    "DARK": {
+      "NAMES": [
+        "mallumo",
+        "mallumo+"
+      ],
+      "DESCRIPTION": "Sfero: Plialtigas damagxvaloron cxiuvice. Kiam #yElvokite, faras damagxon al la malamiko, kiu havas malplej da vivo."
+    },
+    "DAZED": {
+      "NAMES": [
+        "konsternigxo"
+      ],
+      "DESCRIPTION": "Konsternigxo estas neludebla statkarto."
+    },
+    "DEXTERITY": {
+      "NAMES": [
+        "lerteco"
+      ],
+      "DESCRIPTION": "Lerteco plialtigas Sxirmon, kiun vi gajnas de kartoj."
+    },
+    "ETHEREAL": {
+      "NAMES": [
+        "fantoma"
+      ],
+      "DESCRIPTION": "Se cxi tiu karto estas en via mano je la fino de via vico, gxi estas elcxerpita. Elcxerpitaj kartoj estas forigataj de via kartaro gxis la fino de la batalo."
+    },
+    "EVOKE": {
+      "NAMES": [
+        "elvoki",
+        "elvokita"
+      ],
+      "DESCRIPTION": "Konsumu vian plej dekstran Sferon kaj uzu gxian Elvokefekton."
+    },
+    "EXHAUST": {
+      "NAMES": [
+        "elcxerpi",
+        "elcxerpita"
+      ],
+      "DESCRIPTION": "Forigita gxis la fino de la batalo."
+    },
+    "FOCUS": {
+      "NAMES": [
+        "atento"
+      ],
+      "DESCRIPTION": "Atento plialtigas la efikon de TODO#yChanneled Sferoj."
+    },
+    "FRAIL": {
+      "NAMES": [
+        "delikata"
+      ],
+      "DESCRIPTION": "Dum vi estas Delikata, vi gajnos #b25% malpli da #ySxirmo de kartoj."
+    },
+    "FROST": {
+      "NAMES": [
+        "frosto",
+        "frosto+"
+      ],
+      "DESCRIPTION": "Sfero: Gajnas #ySxirmo."
+    },
+    "INNATE": {
+      "NAMES": [
+        "fundamenta"
+      ],
+      "DESCRIPTION": "Komencu cxiun batalon kun cxi tiu karto en la mano."
+    },
+    "INTANGIBLE": {
+      "NAMES": [
+        "nepalpebla"
+      ],
+      "DESCRIPTION": "Malaltigu CxIUN damagxon, kiun vi ricevas, gxis vi perdas nur #b1 vivpoenton."
+    },
+    "LIGHTNING": {
+      "NAMES": [
+        "fulmo",
+        "fulmo+"
+      ],
+      "DESCRIPTION": "Sfero: Faras damagxon al hazardaj malamikoj."
+    },
+    "LOCKED": {
+      "NAMES": [
+        "sxlosita"
+      ],
+      "DESCRIPTION": "Cxi tiu karto ankoraux ne estas malsxlosita."
+    },
+    "OPENER": {
+      "NAMES": [
+        "komenca"
+      ],
+      "DESCRIPTION": "Komencaj kartoj nur rajtas esti ludataj unuakarte en cxiu vico."
+    },
+    "PLASMA": {
+      "NAMES": [
+        "plasmo",
+        "plasmo+"
+      ],
+      "DESCRIPTION": "Sfero: Gajnas Energion."
+    },
+    "POISON": {
+      "NAMES": [
+        "veneno",
+        "venenita"
+      ],
+      "DESCRIPTION": "Venenitaj estajxoj perdas vivon je la fino de sia vico. Cxiuvice, Veneno malaltigxas po #b1."
+    },
+    "RETAIN": {
+      "NAMES": [
+        "reteni"
+      ],
+      "DESCRIPTION": "Retenitaj kartoj ne estas forjxetataj je la fino de via vico."
+    },
+    "SHIV": {
+      "NAMES": [
+        "pikilo",
+        "pikiloj"
+      ],
+      "DESCRIPTION": "Pikiloj estas Atakokartoj, kiuj kostas #b0 kaj Elcxerpigxas."
+    },
+    "STATUS": {
+      "NAMES": [
+        "stato"
+      ],
+      "DESCRIPTION": "Statkartoj estas forigataj je la fino de la batalo."
+    },
+    "STRENGTH": {
+      "NAMES": [
+        "forto"
+      ],
+      "DESCRIPTION": "Forto aldonas kroman damagxon al atakoj."
+    },
+    "STRIKE": {
+      "NAMES": [
+        "bato"
+      ],
+      "DESCRIPTION": "Ajna karto kun la vorto \"Bato\" en sia nomo."
+    },
+    "TEXT": [
+      "Energio estas uzata por ludi kartojn el la mano."
+    ],
+    "THORNS": {
+      "NAMES": [
+        "dornoj"
+      ],
+      "DESCRIPTION": "Ricevante #yAtakdamagxon, refaras damagxon."
+    },
+    "TODO": {
+      "NAMES": [
+        "todo",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE",
+        "JUST FOR DEVS, DONT TRANSLATE"
+      ],
+      "DESCRIPTION": "This card is NOT IMPLEMENTED. Someone should really fix that..."
+    },
+    "TRANSFORM": {
+      "NAMES": [
+        "transformi"
+      ],
+      "DESCRIPTION": "Transformitaj kartoj igxas hazarda karto de ajna ofteco."
+    },
+    "UNKNOWN": {
+      "NAMES": [
+        "nekonata"
+      ],
+      "DESCRIPTION": "Cxi tiu karto ankoraux ne estas trovita."
+    },
+    "UNPLAYABLE": {
+      "NAMES": [
+        "neludebla"
+      ],
+      "DESCRIPTION": "Neludeblaj kartoj ne povas esti ludataj el via mano."
+    },
+    "UPGRADE": {
+      "NAMES": [
+        "plibonigi",
+        "plibonigita"
+      ],
+      "DESCRIPTION": "Plibonigi kartojn faras ilin pli potencaj. Kartoj povas plibonigxi nur unufoje."
+    },
+    "VOID": {
+      "NAMES": [
+        "vakuo",
+        "vakuoj"
+      ],
+      "DESCRIPTION": "Vakuoj estas neludeblaj statkartoj, kiuj konsumas energion, kiam ili estas prenataj."
+    },
+    "VULNERABLE": {
+      "NAMES": [
+        "vundebla"
+      ],
+      "DESCRIPTION": "Vundeblaj estajxoj prenas #b50% pli da damagxo de Atakoj."
+    },
+    "WEAK": {
+      "NAMES": [
+        "malforta",
+        "malfortigi",
+        "malfortigita",
+        "malfortigas"
+      ],
+      "DESCRIPTION": "Malfortigitaj estajxoj faras #b25% malpli da damagxo per Atakoj."
+    },
+    "WOUND": {
+      "NAMES": [
+        "vundo",
+        "vundoj"
+      ],
+      "DESCRIPTION": "Vundoj estas neludeblaj statkartoj."
+    }
+  }
+}

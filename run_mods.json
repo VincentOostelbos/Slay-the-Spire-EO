@@ -1,0 +1,106 @@
+{
+  "Allstar": {
+    "NAME": "La Cxefo",
+    "DESCRIPTION": "Komencu kun 5 senkoloraj kartoj."
+  },
+  "Binary": {
+    "NAME": "Binara",
+    "DESCRIPTION": "Kartpremioj entenas nur 2 kartojn."
+  },
+  "Brewmaster": {
+    "NAME": "Miksmajstro",
+    "DESCRIPTION": "Komencu kun 5 kopioj de Alkemio kaj la Blankbesta Statuo."
+  },
+  "Cursed Run": {
+    "NAME": "Malbenita Ludado",
+    "DESCRIPTION": "Kiam vi venkas Estron, igxu Malbenita. Via dekomenca relikvo estos anstatauxigata de Malbenita Sxlosilo, Nulŝtona Amuleto kaj Du-Vo-Pupo."
+  },
+  "Diverse": {
+    "NAME": "Diversa",
+    "DESCRIPTION": "Kartoj ne estas limigataj laux via rolulo."
+  },
+  "Draft": {
+    "NAME": "Kartarigo",
+    "DESCRIPTION": "Faru propran komencan kartaron el triopoj de elektoj."
+  },
+  "Elite Swarm": {
+    "NAME": "Altcxasisto",
+    "DESCRIPTION": "Elitaj malamikoj nun svarmas en la Spajro kaj faligas pli bonajn premiojn."
+  },
+  "Endless": {
+    "NAME": "Senfina",
+    "DESCRIPTION": "Post venko, vi estos resendata al Akto 1 kun la sama kartaro. Tamen atentu: iutempe la malsano konsumos cxion..."
+  },
+  "Blight Chests": {
+    "NAME": "Malsanplenaj Kofroj",
+    "DESCRIPTION": "Estrokofroj enhavas malsanojn post venki Akton 3 kun Senfina."
+  },
+  "Heirloom": {
+    "NAME": "Heredajxo",
+    "DESCRIPTION": "Komencu kun 1 Maloftan relikvon."
+  },
+  "Hoarder": {
+    "NAME": "Hamstrado",
+    "DESCRIPTION": "Kiam vi aldonas karton al la kartaro, aldonu du kromajn kopiojn. Vi ne plu povas forigi kartojn de via kartaro cxe la Komercisto."
+  },
+  "Inception": {
+    "NAME": "Inception",
+    "DESCRIPTION": "Anstatauxigas vian komencan relikvon per Sencxesa Turbo."
+  },
+  "Insanity": {
+    "NAME": "Frenezeco",
+    "DESCRIPTION": "Komencu kun hazardan kartaron de 50 kartoj."
+  },
+  "Lethality": {
+    "NAME": "Mortrisko",
+    "DESCRIPTION": "Vi komencas cxiun batalon kun +3 Forto. Cxiu malamiko komencas la batalon kun +3 Forto."
+  },
+  "Midas": {
+    "NAME": "Midaso",
+    "DESCRIPTION": "Malamikoj faligas 200% pli da oro, sed vi ne povas plibonigi kartojn cxe Ripozejoj."
+  },
+  "My True Form": {
+    "NAME": "Mia Vera Formo",
+    "DESCRIPTION": "Komencu kun kopio de Demonformo, Start with a copy of Demon Form, Fantomformo kaj Ehxoformo."
+  },
+  "Night Terrors": {
+    "NAME": "Inkubsongxoj",
+    "DESCRIPTION": "Ripozi cxe Ripozejoj resanigas 100% da via vivo, sed prenas 5 de la maksimumo de viaj vivpoentoj."
+  },
+  "One Hit Wonder": {
+    "NAME": "Nura Furoro",
+    "DESCRIPTION": "Komencu la ludon kun maksimumo de 1 vivpoento."
+  },
+  "Praise Snecko": {
+    "NAME": "Gloro al Serpeko",
+    "DESCRIPTION": "Anstatauxigas vian komencan relikvon per Okulo de Serpeko."
+  },
+  "Shiny": {
+    "NAME": "Brila",
+    "DESCRIPTION": "Komenca kartaro estos anstatauxigata de 1 de cxia malofta karto."
+  },
+  "Specialized": {
+    "NAME": "Fakisto",
+    "DESCRIPTION": "Komencu kun 5 kopioj de sola malofta karto."
+  },
+  "Starter Deck": {
+    "NAME": "Komenca Kartaro",
+    "DESCRIPTION": "Komencu kun Kaputa Krono kaj Binara, do malamikoj ne plu faligas kartojn."
+  },
+  "Terminal": {
+    "NAME": "Mortanta",
+    "DESCRIPTION": "Kiam vi eniras novan cxambron, perdu 1 de la maksimumo de viaj vivpoentoj. Komencu cxiun batalon kun 5 da Lada Armajxo."
+  },
+  "Time Dilation": {
+    "NAME": "Tempostrecxigxo",
+    "DESCRIPTION": "Cxiu malamiko komencas kun la statmalbonigo Malrapida."
+  },
+  "Uncertain Future": {
+    "NAME": "Certa Estonteco",
+    "DESCRIPTION": "La mapo enhavas nur unu vojon."
+  },
+  "Vintage": {
+    "NAME": "Antikvajxisto",
+    "DESCRIPTION": "Normalaj Malamikoj faligas relikvojn anstataŭ kartojn."
+  }
+}

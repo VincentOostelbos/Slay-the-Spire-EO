@@ -1,0 +1,100 @@
+{
+  "DeadlyEnemies": {
+    "NAME": "Malsaniga Lanco",
+    "DESCRIPTION": [
+      "Malamikoj faras #b",
+	  "% pli da damagxo."
+    ]
+  },
+  "ToughEnemies": {
+    "NAME": "Malsaniga Sxildo",
+     "DESCRIPTION": [
+      "Malamikoj havas #b",
+	  "% pli da vivpoentoj."
+    ]
+  },
+  "TimeMaze": {
+    "NAME": "Labirinto de Tempo",
+     "DESCRIPTION": [
+      "Vi ne povas ludi pli ol #b",
+      " kartojn cxiuvice.",
+	  "Mi nur povas ludi gxis NL #r"
+    ]
+  },
+  "TwistingMind": {
+    "NAME": "Menso Fleksanta",
+     "DESCRIPTION": [
+      "Je la fino de via vico, aldonu #b",
+	  " hazardajn Statkartojn al la suprajxo de via kartstako.",
+	  ""
+    ]
+  },
+  "Accursed": {
+    "NAME": "Malbonita",
+     "DESCRIPTION": [
+      "Kiam vi venkas Estron, obtenu #b",
+	  " hazardajn #yMalbenojn.",
+	  ""
+    ]
+  },
+  "Scatterbrain": {
+    "NAME": "Ventkapulo",
+     "DESCRIPTION": [
+      "Prenu #b",
+	  " malpli da kartoj cxiuvice.",
+	  ""
+    ]
+  },
+  "MimicInfestation": {
+    "NAME": "Infestado de Imitistoj",
+     "DESCRIPTION": [
+      "Trezorcxambroj en estontaj aktoj estas anstatauxigitaj de Elitoj. Elitoj ne plu faligas relikvojn."
+    ]
+  },
+  "FullBelly": {
+    "NAME": "Muzelo",
+     "DESCRIPTION": [
+      "Vi ne plu povas plialtigi la maksimumon de viaj vivpoentoj. Cxia resanigxo estas duonigita."
+    ]
+  },
+  "GrotesqueTrophy": {
+    "NAME": "Groteska Trofeo",
+     "DESCRIPTION": [
+      "Kiam vi prenas ĝin, obtenu #b",
+	  " da #rFieroj.",
+	  "Via Fiero acxformigxas..."
+    ]
+  },
+  "BlightedDurian": {
+    "NAME": "Postdurio",
+     "DESCRIPTION": [
+      "Perdu #b",
+	  "% da la maksimumo de viaj vivpoentoj."
+    ]
+  },
+  "VoidEssence": {
+    "NAME": "Esenco de Vakuo",
+     "DESCRIPTION": [
+      "Gajnu #b",
+      " malpli da [R] je la komenco de cxiu vico.",
+      " malpli da [G] je la komenco de cxiu vico.",
+      " malpli da [B] je la komenco de cxiu vico."
+    ]
+  },
+  "GraspOfShadows": {
+    "NAME": "Hantadoj",
+     "DESCRIPTION": [
+      "Malamikoj komencas la batalon kun #b",
+	  " da #yNepalpebla."
+    ]
+  },
+  "MetallicRebirth": {
+    "NAME": "Praa Pliigo",
+     "DESCRIPTION": [
+      "Malamikoj komencas la batalon kun #b",
+	  " da #yArtefakto, #b",
+	  " da #yLada #yArmajxo, kaj #b",
+	  " da #yRegenero."
+    ]
+  }
+}

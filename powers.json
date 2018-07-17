@@ -1,0 +1,980 @@
+{
+  "Accuracy": {
+    "NAME": "Accuracy",
+    "DESCRIPTIONS": [
+      "#yShivs deal #b",
+      " additional damage."
+    ]
+  },
+  "After Image": {
+    "NAME": "After Image",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Amplify": {
+    "NAME": "Amplify",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #yPower twice.",
+      "On this turn, play your next ",
+      " #yPowers twice."
+    ]
+  },
+  "Anger": {
+    "NAME": "Enrage",
+    "DESCRIPTIONS": [
+      "Whenever you play a #ySkill, gains #b",
+      " #yStrength."
+    ]
+  },
+  "Angry": {
+    "NAME": "Angry",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes #yAttack damage, it gains #b",
+      " #yStrength."
+    ]
+  },
+  "Artifact": {
+    "NAME": "Artifact",
+    "DESCRIPTIONS": [
+      "Negates #b",
+      " debuff.",
+      " debuffs."
+    ]
+  },
+  "Attack Burn": {
+    "NAME": "Attack Burn",
+    "DESCRIPTIONS": [
+      "For #b",
+      " turn, whenever you play an #yAttack, #yExhaust it.",
+      "For the next #b",
+      " turns, whenever you play an #yAttack, #yExhaust it."
+    ]
+  },
+  "Barricade": {
+    "NAME": "Barricade",
+    "DESCRIPTIONS": [
+      "#yBlock is not removed at the start of your turn.",
+      "#yBlock is not removed at the start of turn."
+    ]
+  },
+  "Berserk": {
+    "NAME": "Berserk",
+    "DESCRIPTIONS": [
+      "Gain ",
+      "  at the start of your turn."
+    ]
+  },
+  "Bias": {
+    "NAME": "Bias",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " #yFocus."
+    ]
+  },
+  "Blur": {
+    "NAME": "Blur",
+    "DESCRIPTIONS": [
+      "#yBlock is not removed at the start of your next turn.",
+      "#yBlock is not removed at the start of your next #b",
+      " turns."
+    ]
+  },
+  "Brutality": {
+    "NAME": "Brutality",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " HP and draw #b",
+      " card.",
+      "At the start of your turn, lose #b",
+      " HP and draw #b",
+      " cards."
+    ]
+  },
+  "Buffer": {
+    "NAME": "Buffer",
+    "DESCRIPTIONS": [
+      "Prevent the next time you would lose HP.",
+      "Prevent the next #b",
+      " times you would lose HP."
+    ]
+  },
+  "Bullet Time": {
+    "NAME": "Bullet Time",
+    "DESCRIPTIONS": [
+      "The energy cost of all Green cards are now #b0."
+    ]
+  },
+  "Burst": {
+    "NAME": "Burst",
+    "DESCRIPTIONS": [
+      "On this turn, play your next #ySkill twice.",
+      "On this turn, play your next ",
+      " #ySkills twice."
+    ]
+  },
+  "Choked": {
+    "NAME": "Choked",
+    "DESCRIPTIONS": [
+      "Loses #b",
+      " HP whenever you play a card this turn."
+    ]
+  },
+  "Combust": {
+    "NAME": "Combust",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " HP and deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Confusion": {
+    "NAME": "Confusion",
+    "DESCRIPTIONS": [
+      "Whenever you draw a card, randomize its cost."
+    ]
+  },
+  "Conserve": {
+    "NAME": "Conserve",
+    "DESCRIPTIONS": [
+      "#yEnergy is conserved this turn.",
+      "#yEnergy is conserved for the next #b",
+      " turns."
+    ]
+  },
+  "Constricted": {
+    "NAME": "Constricted",
+    "DESCRIPTIONS": [
+      "At the end of your turn take #b",
+      " damage."
+    ]
+  },
+  "Corruption": {
+    "NAME": "Corruption",
+    "DESCRIPTIONS": [
+      "Skills cost #b0. Whenever you play a #ySkill, #yExhaust it.",
+      "Whenever you play a #ySkill, #yExhaust it."
+    ]
+  },
+  "Creative AI": {
+    "NAME": "Creative AI",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Power card into your hand.",
+      " random Power cards into your hand."
+    ]
+  },
+  "Curiosity": {
+    "NAME": "Curiosity",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, gains #b",
+      " #yStrength."
+    ]
+  },
+  "Curl Up": {
+    "NAME": "Curl Up",
+    "DESCRIPTIONS": [
+      "On taking #yAttack damage, rolls up and gains ",
+      " #yBlock. (Once per combat)"
+    ]
+  },
+  "Dance Puppet": {
+    "NAME": "Dance Puppet",
+    "DESCRIPTIONS": [
+      "Whenever you play a non-Skill card, take #b",
+      " damage. (Card type changes each turn)",
+      "Whenever you play a non-Attack card, take #b",
+      "+1 Dance Puppet"
+    ]
+  },
+  "Dark Embrace": {
+    "NAME": "Dark Embrace",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yExhausted, draw #b1 card.",
+      "Whenever a card is #yExhausted, draw #b",
+      " cards."
+    ]
+  },
+  "Demon Form": {
+    "NAME": "Demon Form",
+    "DESCRIPTIONS": [
+      "At the start of your turn, gain #b",
+      " #yStrength."
+    ]
+  },
+  "DexLoss": {
+    "NAME": "Dexterity Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
+  "Dexterity": {
+    "NAME": "Dexterity",
+    "DESCRIPTIONS": [
+      "Increases #yBlock gained from cards by #b",
+      "Decreases #yBlock gained from cards by #b",
+      "."
+    ]
+  },
+  "Double Damage": {
+    "NAME": "Double Damage",
+    "DESCRIPTIONS": [
+      "#yAttacks deal double damage for #b",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Double Tap": {
+    "NAME": "Double Tap",
+    "DESCRIPTIONS": [
+      "This turn, play your next #yAttack twice.",
+      "This turn, play your next ",
+      " #yAttacks twice."
+    ]
+  },
+  "Draw": {
+    "NAME": "Draw",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " fewer card at the start of each turn.",
+      " additional cards at the start of each turn.",
+      " fewer cards at the start of each turn."
+    ]
+  },
+  "Draw Card": {
+    "NAME": "Draw Card",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " cards next turn.",
+      " card next turn."
+    ]
+  },
+  "Draw Down": {
+    "NAME": "Draw Down",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " less card next turn.",
+      " less cards next turn."
+    ]
+  },
+  "Draw Reduction": {
+    "NAME": "Draw Reduction",
+    "DESCRIPTIONS": [
+      "Draw #b1 less card next turn.",
+      "Draw #b1 less card for #b",
+      " turns."
+    ]
+  },
+  "Echo Form": {
+    "NAME": "Echo Form",
+    "DESCRIPTIONS": [
+      "The first card you play each turn is played twice.",
+      "The first #b",
+      " cards you play each turn are played twice."
+    ]
+  },
+  "Electro": {
+    "NAME": "Electro",
+    "DESCRIPTIONS": [
+      "#yLightning hits ALL enemies.",
+      "",
+      ""
+    ]
+  },
+  "Energized": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [G] next turn.",
+      " additional [G] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "EnergizedBlue": {
+    "NAME": "Energized",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " additional [B] next turn.",
+      " additional [B] next turn.",
+      " - TRANSLATOR NOTE: - The above line is for plural if needed to distinguish from singular."
+    ]
+  },
+  "Entangled": {
+    "NAME": "Entangled",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks for one turn."
+    ]
+  },
+  "Envenom": {
+    "NAME": "Envenom",
+    "DESCRIPTIONS": [
+      "Whenever you deal unblocked #yAttack damage, apply #b",
+      " #yPoison."
+    ]
+  },
+  "Evolve": {
+    "NAME": "Evolve",
+    "DESCRIPTIONS": [
+      "Whenever you draw a #yStatus, draw a card.",
+      "Whenever you draw a #yStatus, draw #b",
+      " cards."
+    ]
+  },
+  "Explosive": {
+    "NAME": "Explosive",
+    "DESCRIPTIONS": [
+      "In #b",
+      " turns, explodes dealing #b",
+      " damage.",
+      "On its turn, explodes dealing #b"
+    ]
+  },
+  "Extra Cards": {
+    "NAME": "Extra Cards",
+    "DESCRIPTIONS": [
+      "Draw #b1 more card next turn.",
+      "Draw #b",
+      " extra cards next turn."
+    ]
+  },
+  "Feel No Pain": {
+    "NAME": "Feel No Pain",
+    "DESCRIPTIONS": [
+      "Whenever a card is #yExhausted, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Fire Breathing": {
+    "NAME": "Fire Breathing",
+    "DESCRIPTIONS": [
+      "At the end of your turn, for each #yAttack played this turn deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Flame Barrier": {
+    "NAME": "Flame Barrier",
+    "DESCRIPTIONS": [
+      "Whenever you receive #yAttack damage, deal #b",
+      " damage back."
+    ]
+  },
+  "Flex": {
+    "NAME": "Strength Down",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yStrength."
+    ]
+  },
+  "Flight": {
+    "NAME": "Flight",
+    "DESCRIPTIONS": [
+      "Reduce #yAttack damage taken by #b50%. Cancelled if dealt #yAttack damage #b3 times in one turn."
+    ]
+  },
+  "Focus": {
+    "NAME": "Focus",
+    "DESCRIPTIONS": [
+      "Increases the effectiveness of Orbs by #b",
+      "Decreases the effectiveness of Orbs by #b",
+      "."
+    ]
+  },
+  "Frail": {
+    "NAME": "Frail",
+    "DESCRIPTIONS": [
+      "Gain #b25% less #yBlock from cards for #b",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Gambit": {
+    "NAME": "Gambit",
+    "DESCRIPTIONS": [
+      "After #b",
+      " turn, gain ",
+      " turns, gain ",
+      " [B] ."
+    ]
+  },
+  "Generic Strength Up Power": {
+    "NAME": "",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
+    ]
+  },
+  "GrowthPower": {
+    "NAME": "Growth",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
+    ]
+  },
+  "Heatsink": {
+    "NAME": "Heatsink",
+    "DESCRIPTIONS": [
+      "Whenever you play a Power, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Hello": {
+    "NAME": "Hello",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b",
+      " random Common cards to your hand.",
+      " random Common card to your hand."
+    ]
+  },
+  "Hex": {
+    "NAME": "Hex",
+    "DESCRIPTIONS": [
+      "Whenever you play a non-Attack card, shuffle #b",
+      " #yDazed into your draw pile."
+    ]
+  },
+  "Hide": {
+    "NAME": "Hide",
+    "DESCRIPTIONS": [
+      "You cannot take damage until the start of your next turn.",
+      "You cannot take damage for #b",
+      " turns."
+    ]
+  },
+  "Infinite Blades": {
+    "NAME": "Infinite Blades",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " #yShivs.",
+      " #yShiv."
+    ]
+  },
+  "Intangible": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1 this turn. Intangible is reapplied every other turn."
+    ]
+  },
+  "IntangiblePlayer": {
+    "NAME": "Intangible",
+    "DESCRIPTIONS": [
+      "Reduce ALL damage taken and HP loss to #b1."
+    ]
+  },
+  "Inverted": {
+    "NAME": "Inverted",
+    "DESCRIPTIONS": [
+      "Immune to damage. Whenever you gain #yBlock, loses that much HP."
+    ]
+  },
+  "Juggernaut": {
+    "NAME": "Juggernaut",
+    "DESCRIPTIONS": [
+      "Whenever you gain #yBlock, deal #b",
+      " damage to a random enemy."
+    ]
+  },
+  "Knowledge": {
+    "NAME": "Knowledge",
+    "DESCRIPTIONS": [
+      "Whenever you play a #yPower, draw #b",
+      " cards."
+    ]
+  },
+  "Life Link": {
+    "NAME": "Life Link",
+    "DESCRIPTIONS": [
+      "If other enemies are still alive, revives in #b2 turns at #b50% HP."
+    ]
+  },
+  "Lockon": {
+    "NAME": "Lock-On",
+    "DESCRIPTIONS": [
+      "#yLightning and #yDark Orbs target this enemy for the next #b",
+      " turns.",
+      "#yLightning and #yDark Orbs target this enemy this turn."
+    ]
+  },
+  "Loop": {
+    "NAME": "Loop",
+    "DESCRIPTIONS": [
+      "At the start of your turn, use the passive ability of your next Orb.",
+      "At the start of your turn, use the passive ability of your next Orb #b",
+      " times."
+    ]
+  },
+  "Machine Learning": {
+    "NAME": "Machine Learning",
+    "DESCRIPTIONS": [
+      "Draw #b",
+      " additional card at the start of each turn.",
+      " additional cards at the start of each turn."
+    ]
+  },
+  "Magnetism": {
+    "NAME": "Magnetism",
+    "DESCRIPTIONS": [
+      "At the start of your turn, add #b%s random colorless card to your hand.",
+      "At the start of your turn, add #b%s random colorless cards to your hand."
+    ]
+  },
+  "Malleable": {
+    "NAME": "Malleable",
+    "DESCRIPTIONS": [
+      "On taking #yAttack damage, gains #b",
+      " #yBlock. #yBlock gain increases as ",
+      " is triggered. Resets to #b",
+      " at the start of your turn."
+    ]
+  },
+  "Mayhem": {
+    "NAME": "Mayhem",
+    "DESCRIPTIONS": [
+      "At the start of your turn, play the top card of your draw pile.",
+      "At the start of your turn, play the top #b",
+      " cards of your draw pile."
+    ]
+  },
+  "Metallicize": {
+    "NAME": "Metallicize",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yBlock at the end of your turn.",
+      "Gains #b",
+      " #yBlock at the end of its turn."
+    ]
+  },
+  "Minion": {
+    "NAME": "Minion",
+    "DESCRIPTIONS": [
+      "Minions abandon combat without their leader."
+    ]
+  },
+  "Mode Shift": {
+    "NAME": "Mode Shift",
+    "DESCRIPTIONS": [
+      "After taking #b",
+      " damage, changes to a defensive mode."
+    ]
+  },
+  "Next Turn Block": {
+    "NAME": "Next Turn Block",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Night Terror": {
+    "NAME": "Nightmare",
+    "DESCRIPTIONS": [
+      "At the start of your next turn, add #b",
+      " cards to your hand."
+    ]
+  },
+  "No Attack": {
+    "NAME": "No Attack",
+    "DESCRIPTIONS": [
+      "You cannot play #yAttacks this turn."
+    ]
+  },
+  "No Draw": {
+    "NAME": "No Draw",
+    "DESCRIPTIONS": [
+      "You cannot draw cards until end of turn."
+    ]
+  },
+  "Noxious Fumes": {
+    "NAME": "Noxious Fumes",
+    "DESCRIPTIONS": [
+      "At the start of your turn, apply #b",
+      " #yPoison to ALL enemies."
+    ]
+  },
+  "Nullify Attack": {
+    "NAME": "Nullify Attack",
+    "DESCRIPTIONS": [
+      "Fully #yBlocks one #yAttack each turn."
+    ]
+  },
+  "Painful Stabs": {
+    "NAME": "Painful Stabs",
+    "DESCRIPTIONS": [
+      "Whenever you take damage from this enemy, add a #yWound into your Discard Pile."
+    ]
+  },
+  "Panache": {
+    "NAME": "Panache",
+    "DESCRIPTIONS": [
+      "If you play #b",
+      " more card this turn, deal #b",
+      " damage to ALL enemies.",
+      " more cards this turn, deal #b"
+    ]
+  },
+  "Pen Nib": {
+    "NAME": "Pen Nib",
+    "DESCRIPTIONS": [
+      "Your next #yAttack deals double damage."
+    ]
+  },
+  "Phantasmal": {
+    "NAME": "Phantasmal",
+    "DESCRIPTIONS": [
+      "Deal #yDouble #yDamage next turn.",
+      "Deal #yDouble #yDamage for the next ",
+      " turns."
+    ]
+  },
+  "Plated Armor": {
+    "NAME": "Plated Armor",
+    "DESCRIPTIONS": [
+      "Gain #b",
+      " #yBlock at the end of your turn. Losing HP from an attack reduces #yPlated #yArmor by #b1.",
+      "Gains #b",
+      " #yBlock at the end of its turn. Losing HP from an attack reduces #yPlated #yArmor by #b1."
+    ]
+  },
+  "Poison": {
+    "NAME": "Poison",
+    "DESCRIPTIONS": [
+      "At the start of your turn, lose #b",
+      " HP, then reduce #yPoison by #b1.",
+      "At the start of its turn, loses #b"
+    ]
+  },
+  "Prime": {
+    "NAME": "Prime",
+    "DESCRIPTIONS": [
+      "Whenever you #yChannel an Orb, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Primitive": {
+    "NAME": "Primitive",
+    "DESCRIPTIONS": [
+      "Whenever you play a Common card, draw #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Rage": {
+    "NAME": "Rage",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack this turn, gain #b",
+      " #yBlock."
+    ]
+  },
+  "Rebound": {
+    "NAME": "Rebound",
+    "DESCRIPTIONS": [
+      "The next card you play this turn is placed on top of your draw pile.",
+      "The next #b",
+      " cards you play this turn are placed on top of your draw pile."
+    ]
+  },
+  "Reduce Damage": {
+    "NAME": "Reduce Damage",
+    "DESCRIPTIONS": [
+      "Reduce damage taken by #b"
+    ]
+  },
+  "Regenerate": {
+    "NAME": "Regenerate",
+    "DESCRIPTIONS": [
+      "Heals #b",
+      " #yHP at the end of its turn."
+    ]
+  },
+  "Regeneration": {
+    "NAME": "Regen",
+    "DESCRIPTIONS": [
+      "At the end of your turn, heal #b",
+      " #yHP, then reduce #yRegen by #b1.",
+      ""
+    ]
+  },
+  "Repair": {
+    "NAME": "Repair",
+    "DESCRIPTIONS": [
+      "At the end of combat, heal #b",
+      " HP."
+    ]
+  },
+  "Repulse": {
+    "NAME": "Repulse",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " receives attack damage, puts a #yWound into your hand."
+    ]
+  },
+  "Retain Cards": {
+    "NAME": "Retain Cards",
+    "DESCRIPTIONS": [
+      "At the end of each turn, you may retain #b",
+      " card.",
+      " cards."
+    ]
+  },
+  "Retain Hand": {
+    "NAME": "Retain Hand",
+    "DESCRIPTIONS": [
+      "At the end of your turn, do not discard your hand for #b",
+      " turns.",
+      "At the end of your turn, do not discard your hand."
+    ]
+  },
+  "Riposte": {
+    "NAME": "Riposte",
+    "DESCRIPTIONS": [
+      "Once per turn, deals #b",
+      " damage back when you play an #yAttack."
+    ]
+  },
+  "Ritual": {
+    "NAME": "Ritual",
+    "DESCRIPTIONS": [
+      "At the end of its turn, gains #b",
+      " #yStrength."
+    ]
+  },
+  "Rupture": {
+    "NAME": "Rupture",
+    "DESCRIPTIONS": [
+      "Upon losing HP from a card, gain #b",
+      " #yStrength."
+    ]
+  },
+  "Sadistic": {
+    "NAME": "Sadistic",
+    "DESCRIPTIONS": [
+      "Whenever you apply a Debuff to an enemy, deal #b",
+      " damage."
+    ]
+  },
+  "Serpentine": {
+    "NAME": "Serpentine",
+    "DESCRIPTIONS": [
+      "Immune to #yPotions."
+    ]
+  },
+  "Shackled": {
+    "NAME": "Shackled",
+    "DESCRIPTIONS": [
+      "Regains #b",
+      " #yStrength at the end of its turn."
+    ]
+  },
+  "Sharp Hide": {
+    "NAME": "Sharp Hide",
+    "DESCRIPTIONS": [
+      "Whenever you play an #yAttack, take #b",
+      " damage."
+    ]
+  },
+  "Shriek From Beyond": {
+    "NAME": "Shriek From Beyond",
+    "DESCRIPTIONS": [
+      "Whenever you play an Attack, discard a random card."
+    ]
+  },
+  "Skill Burn": {
+    "NAME": "Skill Burn",
+    "DESCRIPTIONS": [
+      "For #b",
+      " turn, whenever you play a #ySkill, #yExhaust it.",
+      "For the next #b",
+      " turns, whenever you play a #ySkill, #yExhaust it."
+    ]
+  },
+  "Slow": {
+    "NAME": "Slow",
+    "DESCRIPTIONS": [
+      "For each card played this turn, ",
+      " takes #b10% more damage from #yAttacks.",
+      " (Take #b",
+      "% more damage)"
+    ]
+  },
+  "Split": {
+    "NAME": "Split",
+    "DESCRIPTIONS": [
+      "When its HP is at or below #b50%, will split into #b2 smaller slimes with ",
+      "'s current HP."
+    ]
+  },
+  "Spore Cloud": {
+    "NAME": "Spore Cloud",
+    "DESCRIPTIONS": [
+      "On death, applies #yVulnerable to you for #b",
+      " turns."
+    ]
+  },
+  "Stasis": {
+    "NAME": "Stasis",
+    "DESCRIPTIONS": [
+      "On death, ",
+      " is returned to your hand."
+    ]
+  },
+  "StaticDischarge": {
+    "NAME": "Static Discharge",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Storm": {
+    "NAME": "Storm",
+    "DESCRIPTIONS": [
+      "Whenever you play a #bPower, #yChannel #b",
+      " #yLightning."
+    ]
+  },
+  "Strength": {
+    "NAME": "Strength",
+    "DESCRIPTIONS": [
+      "Increases attack damage by #b",
+      "Decrease attack damage by #b",
+      "."
+    ]
+  },
+  "TheBomb": {
+    "NAME": "The Bomb",
+    "DESCRIPTIONS": [
+      "At the end of %1$s turns, deal %2$s damage to ALL enemies.",
+      "At the end of this turn, deal %1$s damage to ALL enemies."
+    ]
+  },
+  "Thievery": {
+    "NAME": "Thievery",
+    "DESCRIPTIONS": [
+      " steals #b",
+      " #yGold whenever it attacks."
+    ]
+  },
+  "Thorns": {
+    "NAME": "Thorns",
+    "DESCRIPTIONS": [
+      "When receiving #yAttack damage, deals #b",
+      " damage back."
+    ]
+  },
+  "Thousand Cuts": {
+    "NAME": "Thousand Cuts",
+    "DESCRIPTIONS": [
+      "Whenever you play a card, deal #b",
+      " damage to ALL enemies."
+    ]
+  },
+  "Time Warp": {
+    "NAME": "Time Warp",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended and Time Eater gains #b",
+      " #yStrength."
+    ]
+  },
+  "Tools Of The Trade": {
+    "NAME": "Tools Of The Trade",
+    "DESCRIPTIONS": [
+      "At the start of your turn, draw #b",
+      " card and discard #b",
+      " card.",
+      " cards and discard #b",
+      " cards."
+    ]
+  },
+  "Unawakened": {
+    "NAME": "Unawakened",
+    "DESCRIPTIONS": [
+      "This enemy hasn't awakened yet..."
+    ]
+  },
+  "Unstable": {
+    "NAME": "Unstable",
+    "DESCRIPTIONS": [
+      "Deal enough damage to throw it off balance."
+    ]
+  },
+  "Venomology": {
+    "NAME": "Venomology",
+    "DESCRIPTIONS": [
+      "#yPoison grows stronger by #b",
+      " instead of lowering each turn."
+    ]
+  },
+  "Vulnerable": {
+    "NAME": "Vulnerable",
+    "DESCRIPTIONS": [
+      "Take #b",
+      "% more damage from #yAttacks for #b",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Weakened": {
+    "NAME": "Weakened",
+    "DESCRIPTIONS": [
+      "#yAttacks deal #b",
+      "% less damage for #b",
+      " turn.",
+      " turns."
+    ]
+  },
+  "Wraith Form v2": {
+    "NAME": "Wraith Form",
+    "DESCRIPTIONS": [
+      "At the end of your turn, lose #b",
+      " #yDexterity."
+    ]
+  },
+  "Equilibrium": {
+    "NAME": "Equilibrium",
+    "DESCRIPTIONS": [
+      "Retain your hand this turn.",
+      "Retain your hand for #b",
+      " turns."
+    ]
+  },
+  "Fading": {
+    "NAME": "Fading",
+    "DESCRIPTIONS": [
+      "Dies in #b",
+      " turns.",
+      "Dies this turn."
+    ]
+  },
+  "Shifting": {
+    "NAME": "Shifting",
+    "DESCRIPTIONS": [
+      "Whenever ",
+      " takes damage, it loses that much #yStrength until the end of the turn."
+    ]
+  },
+  "TimeMazePower": {
+    "NAME": "Time Maze",
+    "DESCRIPTIONS": [
+      "Whenever you play #b",
+      " cards, your turn is ended"
+    ]
+  },
+  "NoBlockPower": {
+    "NAME": "No Block",
+    "DESCRIPTIONS": [
+      "You cannot gain #yBlock from cards."
+    ]
+  },
+  "CorpseExplosionPower": {
+    "NAME": "Corpse Explosion",
+    "DESCRIPTIONS": [
+      "When this enemy dies, deal damage to ALL enemies equal to its Max HP.",
+	  "When this enemy dies, deal damage to ALL enemies equal to #b",
+	  " times its Max HP."
+    ]
+  }
+}

@@ -1,0 +1,39 @@
+{
+  "Dark": {
+    "NAME": "Mallumo",
+    "DESCRIPTION": [
+      "#yPasiva: Je la fino de via vico, plialtigu la damagxon de cxi tiu Sfero je #b",
+      ". NL #yElvoko: Faru #b",
+      " da damagxo al la malamiko, kiu havas malplej da vivo."
+    ]
+  },
+  "Empty": {
+    "NAME": "Sferingo",
+    "DESCRIPTION": [
+      "Sferoj povas esti TODOchanneled en cxi tiujn ingojn."
+    ]
+  },
+  "Frost": {
+    "NAME": "Frosto",
+    "DESCRIPTION": [
+      "#yPasiva: Je la fino de via vico, gajnu #b",
+      " da #ySxirmo. NL #yElvoko: Gajnu #b",
+      " da #ySxirmo."
+    ]
+  },
+  "Lightning": {
+    "NAME": "Fulmo",
+    "DESCRIPTION": [
+      "#yPasiva: Je la fino de via vico, faru #b",
+      " da damagxo al hazarda malamiko. NL #yElvoko: Faru #b",
+      " da damagxo al hazarda malamiko."
+    ]
+  },
+  "Plasma": {
+    "NAME": "Plasmo",
+    "DESCRIPTION": [
+      "#yPasiva: Je la komenco de via vico, gajnu [B] . NL #yElvoko: Gajnu #b",
+      " da [B] . NL Plasmo ne estas efikata de #yAtento."
+    ]
+  }
+}
